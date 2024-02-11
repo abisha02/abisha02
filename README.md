@@ -1,23 +1,7 @@
-### Hi there 👋
- An Aspiring Data Scientist
+### Hi there 👋  I’m Abisha John.
+
+- 👀  An Aspiring Data Scientist
 - 🌱 I’m currently learning myself to be more proficient in ML,DSA
-- 📫 How to reach me abishajohn2000@gmail.
+- 📫 How to reach me abishajohn2000@gmail.com
 
-<!--
-**abisha02/abisha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- ### Hi there 👋 I’m Abisha John
-- 👀 An Aspiring Data Scientist
-- 🌱 I’m currently learning myself to be more proficient in ML,DSA
-- 📫 How to reach me abishajohn2000@gmail. 
--🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
