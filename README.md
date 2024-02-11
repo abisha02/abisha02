@@ -1,4 +1,7 @@
 ### Hi there 👋
+ An Aspiring Data Scientist
+- 🌱 I’m currently learning myself to be more proficient in ML,DSA
+- 📫 How to reach me abishajohn2000@gmail.
 
 <!--
 **abisha02/abisha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
