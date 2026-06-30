@@ -1,18 +1,26 @@
-### Hi there 👋  I’m Abisha John.
+# Hi 👋 I'm Abisha
 
-- 👀  An Aspiring Data Engineer with 3 years of experience building production data pipelines.
-- 🌱 I’m currently learning myself to be more proficient in ML,DSA
-- 📫 How to reach me abishajohn2000@gmail.com
-- Tech Stack
-• SQL
-• PostgreSQL
-• dbt
-• AWS Glue
-• Prefect
-• Python
-• S3
-• CI/CD
+Data Engineer with 3+ years of experience building production ELT pipelines.
 
-Currently working on Modern Data Stack projects.
+## Tech Stack
+
+- PostgreSQL
+- SQL
+- dbt Core
+- AWS Glue
+- Prefect
+- Python
+- AWS S3
+- GitHub Actions
+
+## Current Focus
+
+Building production-quality Modern Data Stack projects.
+
+## Certifications
+
+AWS Data Analytics
+Google Data Analytics
+IBM Data Analysis
 
 
